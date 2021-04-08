@@ -1,12 +1,16 @@
 # CitySpire iOS
 
+<img width="300" alt="App launch screen" src="https://user-images.githubusercontent.com/438307/111725924-2d4b2900-8825-11eb-894d-5d655d540440.png"><img width="300" alt="App search screen" src="https://user-images.githubusercontent.com/438307/111728433-1b1fb980-882a-11eb-9e58-a5b069006b68.png"><img width="300" alt="App detail screen" src="https://user-images.githubusercontent.com/438307/111730232-2ecd1f00-882e-11eb-83b8-5f7ce663576d.png">
+
+
+
 <!-- TestFlight / App Store link will go here -->
 
 ## Contributors
 
 |[Chad Parker](https://github.com/chadparker)                                                                |                                                       [Kelson Hartle](https://github.com/kelson99)                                                      |                                                        [Christian Lorenzo](https://github.com/clbmiami2004)                                                       |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-|[<img src="https://avatars.githubusercontent.com/u/438307?s=460&u=116ff42844a258b78c4d7aab2d5e5ab8f64488cf&v=4" width = "200" />](https://github.com/chadparker)   |[<img src="https://avatars.githubusercontent.com/u/59428583?s=400&u=4908dd62cabf514ce790f7ce3f6a1b0c42e24ce7&v=4" width = "200" />](https://github.com) |[<img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/Screen%20Shot%202020-12-08%20at%2010.11.13%20PM.png" width = "200" />](https://github.com/clbmiami2004) |
+|[<img src="https://avatars.githubusercontent.com/u/438307?s=460&u=116ff42844a258b78c4d7aab2d5e5ab8f64488cf&v=4" width = "200" />](https://github.com/chadparker)   |[<img src="https://avatars.githubusercontent.com/u/59428583?s=400&u=4908dd62cabf514ce790f7ce3f6a1b0c42e24ce7&v=4" width = "200" />](https://github.com/kelson99) |[<img src="https://raw.githubusercontent.com/alext8900/photos/main/Assets/Screen%20Shot%202020-12-08%20at%2010.11.13%20PM.png" width = "200" />](https://github.com/clbmiami2004) |
 |[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> ](https://github.com/chadparker)                               | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> ](https://github.com/kelson99)                              | [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="25"> ](https://github.com/clbmiami2004)                    |
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/chadleeparker/)                                   | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/kelson-hartle/)                               |      [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="25"> ](https://www.linkedin.com/in/lorenzobchristian/)                               | 
 
@@ -26,8 +30,6 @@
 
 ## Key Features
 
-🚫Edit these
-
 - feature one
 - feature two
 - feature three
@@ -35,8 +37,6 @@
 - feature five
 
 ## Remote APIs used
-
-🚫Edit these and add details:
 
 - Okta Authentication API
   - Built in fuctionality written by Spencer Curtis a former instructor here at Lambda. Test accounts to use are located at [Okta Information](https://docs.labs.lambdaschool.com/guides/okta/okta-basics). 
